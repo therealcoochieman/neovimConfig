@@ -6,6 +6,7 @@ end
 
 local servers = {
     "clangd",
+  "rust_analyzer",
 }
 
 installer.setup({
